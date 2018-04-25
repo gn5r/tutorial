@@ -46,7 +46,7 @@ Cmderを何らかの形で起動させると以下画面が出ると思います
 
 ![画像3](./img/cmder.png)
 
-`git config --global user.email "GitHubに登録に使用したメールアドレス"`<br>
+`git config --global user.email "GitHubの登録に使用したメールアドレス"`<br>
 `git config --global user.name "GitHubに登録したアカウントのUserName"`<br>
 これら2つのコマンドを打ち込んでおいてください。<br>
 **--global** オプションはどのディレクトリでも適用されるので、ディレクトリごとにアカウントを変えたい等あるならば、**--global** オプションを外しても構いません。
